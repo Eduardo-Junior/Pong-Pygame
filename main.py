@@ -53,7 +53,7 @@ def opponent_ai():
 
 
 #Reseta a bola após colisão
-#Resets ball's position after collision
+#Resets the ball's position after collision
 
 def ball_restart():
     global ball_speed_x, ball_speed_y
